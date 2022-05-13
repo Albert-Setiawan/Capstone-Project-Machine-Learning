@@ -3,6 +3,7 @@
 
 Repository ini digunakan untuk meninjau perkembangan code klasifikasi penyakit kulit yang kami buat.
 
+<br/>
 
 ## Berikut adalah Nama Tim dari Machine Learning dan LinkedIn
 |     |     |
