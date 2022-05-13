@@ -6,7 +6,7 @@ Repository ini digunakan untuk meninjau perkembangan code klasifikasi penyakit k
 <br/>
 
 ## Branch Info
-Main Branch tempat untuk perkembangan code dari Albert Ricky Setiawan __
+Main Branch tempat untuk perkembangan code dari Albert Ricky Setiawan__
 Local Branch tempat untuk perkembangan code dari Adrianus Charlie
 
 <br/>
