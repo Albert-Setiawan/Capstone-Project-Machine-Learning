@@ -1,5 +1,5 @@
-#Capstone Project
-##Machine Learning
+# Capstone Project
+## Machine Learning
 
 Repository ini digunakan untuk meninjau perkembangan code klasifikasi penyakit kulit yang kami buat.
 
