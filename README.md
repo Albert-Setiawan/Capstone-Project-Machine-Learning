@@ -5,6 +5,10 @@ Repository ini digunakan untuk meninjau perkembangan code klasifikasi penyakit k
 
 <br/>
 
+## Branch Info
+Main Branch tempat untuk perkembangan code dari Albert Ricky Setiawan
+Local Branch tempat untuk perkembangan code dari Adrianus Charlie
+
 ## Berikut adalah Nama Tim dari Machine Learning dan LinkedIn
 |     |     |
 | --- | --- |
