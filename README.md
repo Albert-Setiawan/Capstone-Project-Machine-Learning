@@ -5,11 +5,11 @@ Repository ini digunakan untuk meninjau perkembangan code klasifikasi penyakit k
 
 <br/>
 
-## Branch Info
--- Ini hanya Sementara -- \
-main_branch tempat untuk alokasi link dataset, info tentang perkodingan, dll \
-albert_branch tempat untuk perkembangan code dari Albert Ricky Setiawan \
-charlei_branch tempat untuk perkembangan code dari Adrianus Charlie
+## Main branch indo
+Pada main branch terdapat beberapa Folder yakni Albert, Charlie, dan Assets Folder. <br/>
+Di dalam Albert Folder adalah tempat dimana program-program code di upload, perkembangan dari code juga ada di sana <br/>
+Di dalam Charlie Folder adalah tempat tempat dimana program-program code di upload, perkembangan dari code juga ada di sana <br/>
+Assets Folder tempat menampung foto-foto yang nantinya akan ditampilkan di laman ini.
 
 <br/>
 
