@@ -14,7 +14,7 @@ Assets Folder tempat menampung foto-foto yang nantinya akan ditampilkan di laman
 <br/>
 
 ## Resource
-Dataset         : https://drive.google.com/drive/folders/1On-VcQPYiHTnuQ3HICdLin8ns75zEB4F?usp=sharing
+Dataset         : https://drive.google.com/drive/folders/1On-VcQPYiHTnuQ3HICdLin8ns75zEB4F?usp=sharing <br/>
 Model           : https://drive.google.com/drive/folders/1MrkiHncehs5fmqYoZBKYPAYu7bz6ugMp?usp=sharing
 
 <br/>
