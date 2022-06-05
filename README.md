@@ -13,6 +13,11 @@ Assets Folder tempat menampung foto-foto yang nantinya akan ditampilkan di laman
 
 <br/>
 
+## Dataset Resource
+https://drive.google.com/drive/folders/1On-VcQPYiHTnuQ3HICdLin8ns75zEB4F?usp=sharing
+
+<br/>
+
 ## Berikut adalah Nama Tim dari Machine Learning dan LinkedIn
 |     |     |
 | --- | --- |
