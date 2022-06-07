@@ -1,7 +1,23 @@
-import skimage
-import numpy as np
 
-image_filename = "https://upload.wikimedia.org/wikipedia/commons/f/f0/Acne_vulgaris_on_a_very_oily_skin.jpg"
-image_numpy = skimage.io.imread( image_filename )
-image_numpy=np.asarray(image_numpy).astype(np.float32)/255
-print(image_numpy)
+#import modules
+import numpy as np
+import urllib.request
+import cv2
+from urllib.request import Request
+import sys
+  
+# read the image url
+url = sys.argv[1]
+
+with urllib.request.urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'})) as resp:
+    
+    # read image as an numpy array
+    image = np.asarray(bytearray(resp.read()), dtype="uint8")
+      
+    # use imdecode function
+    image = cv2.imdecode(image, cv2.IMREAD_COLOR)
+    print(image.shape)
+  
+    # display image
+    cv2.imshow("result.jpg", image)
+    cv2.waitKey()
