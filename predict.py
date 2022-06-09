@@ -17,14 +17,15 @@ with urllib.request.urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'}))
     np_image = tf.image.resize(image, (180, 180))/255
     np_image = np.expand_dims(np_image, axis=0)
     start_time=time.time()
-    url="http://localhost:8601/v1/models/skut_testing:predict"
+    url="http://34.101.116.238:8081/v1/models/skut_testing:predict"
     data=json.dumps({"signature_name":"serving_default","instances":np_image.tolist()})
     headers={"content_type":"application/json"}
     response=requests.post(url,data=data,headers=headers)
     prediction=json.loads(response.text)['predictions']
     prediction=prediction[0]
+    prediction=[round((x*100),2) for x in prediction]
     result={}
     for i in range(len(prediction)):
-        result[kitab.get(str(i))]=prediction[i]
+        result[kitab.get(str(i))]=str(prediction[i])+"%"
     with open("prediction.json", "w") as outfile:
         json.dump(result, outfile)
