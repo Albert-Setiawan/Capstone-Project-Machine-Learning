@@ -1,15 +1,15 @@
 # Capstone Project
 ## Machine Learning
 
-Repository ini digunakan untuk meninjau perkembangan code klasifikasi penyakit kulit yang kami buat.
+This repository is used to review the development of the skin disease classification code that we created.
 
 <br/>
 
-## Main branch indo
-Pada main branch terdapat beberapa Folder yakni Albert, Charlie, dan Assets Folder. <br/>
-Di dalam Albert Folder adalah tempat dimana program-program code di upload, perkembangan dari code juga ada di sana <br/>
-Di dalam Charlie Folder adalah tempat tempat dimana program-program code di upload, perkembangan dari code juga ada di sana <br/>
-Assets Folder tempat menampung foto-foto yang nantinya akan ditampilkan di laman ini.
+## Main Branch
+In the main branch, there are several folders, namely Albert, Charlie, and Assets Folder.
+Inside the Albert Folder is the place where the code programs are uploaded, the development of the code is also there
+Inside the Charlie Folder is the place where code programs are uploaded, the development of the code is also there
+Assets Folder where the photos are held which will later be displayed on this page.
 
 <br/>
 
@@ -22,7 +22,7 @@ APK                  : https://drive.google.com/file/d/1O3lWBoSD3Ocr1Kth3VTqEcfY
 
 <br/>
 
-## Berikut adalah Nama Tim dari Machine Learning dan LinkedIn
+## Machine Learning Path Member and Our Linkedlin
 |     |     |
 | --- | --- |
 | Nama | Linked In |
