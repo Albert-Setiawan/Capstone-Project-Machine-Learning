@@ -1,17 +1,12 @@
-from matplotlib import image
 import requests
 import json
 import numpy as np
 import cv2
 import tensorflow as tf
 import time
-import urllib.request
 import sys
-import PIL
 from PIL import Image
 import io
-from urllib.request import Request
-import json
 kitab={"0":"Acne","1":'Eksim',"2":"Normal","3":"Rosacea"}
 start_time=time.time()
 url = sys.argv[1]
