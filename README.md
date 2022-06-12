@@ -17,7 +17,8 @@ Assets Folder tempat menampung foto-foto yang nantinya akan ditampilkan di laman
 Dataset              : https://drive.google.com/drive/folders/1eO2jhMTILQB4tCHoF7813Ly3a0dL6iFm?usp=sharing <br/>
 Model                : https://drive.google.com/drive/folders/1ENgaeTSeO4X3kfX_Fvu3SibnYXmv4MA5?usp=sharing <br/>
 Slide Presentation   : https://docs.google.com/presentation/d/1n9BH2y5oIHkezzTva7n5Hn5rPIjI7Uo8/edit?usp=sharing&ouid=104089010441569713181&rtpof=true&sd=true <br/>
-Go-to Proposal       : https://docs.google.com/presentation/d/1wejdvgPXtpDb-AEcevZwEpZOP_bIk8qc/edit?usp=sharing&ouid=104089010441569713181&rtpof=true&sd=true
+Go-to Proposal       : https://docs.google.com/presentation/d/1wejdvgPXtpDb-AEcevZwEpZOP_bIk8qc/edit?usp=sharing&ouid=104089010441569713181&rtpof=true&sd=true <br/>
+APK                  : https://drive.google.com/file/d/1O3lWBoSD3Ocr1Kth3VTqEcfYPz5MRrFm/view?usp=sharing
 
 <br/>
 
