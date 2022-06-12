@@ -13,11 +13,11 @@ kitab={"0":"Acne","1":'Eksim',"2":"Normal","3":"Rosacea"}
 url = sys.argv[1]
 with urllib.request.urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'})) as resp:
     image = np.asarray(bytearray(resp.read()), dtype="uint8")
-    image = cv2.imdecode(image, cv2.IMREAD_COLOR)
+    image = cv2.imdecode(image, cv2.IMREAD_ANYCOLOR)
     np_image = tf.image.resize(image, (180, 180))/255
     np_image = np.expand_dims(np_image, axis=0)
     start_time=time.time()
-    url="http://34.101.116.238:8081/v1/models/skut_testing:predict"
+    url="http://34.101.232.105:8081/v1/models/skut_testing:predict"
     data=json.dumps({"signature_name":"serving_default","instances":np_image.tolist()})
     headers={"content_type":"application/json"}
     response=requests.post(url,data=data,headers=headers)
