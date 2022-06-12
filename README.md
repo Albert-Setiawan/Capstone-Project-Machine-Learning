@@ -32,3 +32,5 @@ Model           : https://drive.google.com/drive/folders/1MrkiHncehs5fmqYoZBKYPA
 1. Open notebook file "SKUT Satisfied K-Fold.ipynb"<br/>
    This Notebook contains the implementation step of making the model <br/>
 2. Run predict.py to predict image in server, pass the image url into the terminal<br/>
+   This script are used to testing some image to our model <br/>
+3. Image in this repo are used to do some testing to our model
