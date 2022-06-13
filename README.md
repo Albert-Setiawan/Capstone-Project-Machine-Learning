@@ -9,8 +9,8 @@ This repository is used to review the development of the skin disease classifica
 In the main branch, there are several folders, namely Albert, Charlie, and Assets Folder.
 Inside the Albert Folder is the place where the code programs are uploaded, the development of the code is also there
 Inside the Charlie Folder is the place where code programs are uploaded, the development of the code is also there
-Assets Folder where the photos are held which will later be displayed on this page.
-Android Repository : https://github.com/Chndr-3/Capstone-Project-Mobile-Development-Repository
+Assets Folder where the photos are held which will later be displayed on this page. <br/>
+Android Repository : https://github.com/Chndr-3/Capstone-Project-Mobile-Development-Repository<br/>
 Cloud Repository   : https://github.com/senoaji91/Capstone-Project-Cloud-Computing-Repository
 
 <br/>
